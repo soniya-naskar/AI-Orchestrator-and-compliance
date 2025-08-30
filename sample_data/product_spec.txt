@@ -1,0 +1,1 @@
+Product: Mobile login supports OTP via SMS. No TOTP configured.

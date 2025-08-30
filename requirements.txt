@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+websockets
+pydantic
+pillow
+qdrant-client
+motor
+aioredis
+httpx
+pytest
+python-multipart
+python-dotenv
